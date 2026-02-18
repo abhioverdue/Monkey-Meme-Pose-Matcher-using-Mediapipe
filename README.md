@@ -48,16 +48,11 @@ pip install opencv-python mediapipe numpy
 
 1. Clone or download the project files.
 2. Place all monkey images into a folder on your machine.
-3. Open `monkey_pose_matcher_v3.py` and update the `images_folder` path in `main()`:
-
-```python
-images_folder = r'C:\path\to\your\monkey\images'
-```
-
+3. Open `monkey_pose_matcher_v3.py` and update the `images_folder` path in `main()`.
 4. Run the script:
 
 ```bash
-python monkey_pose_matcher_v3.py
+python monkey_pose.py
 ```
 
 ---
