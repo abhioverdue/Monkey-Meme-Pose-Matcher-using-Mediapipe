@@ -1,6 +1,7 @@
 # Monkey Pose Matcher
 
 A real-time webcam application that matches your body poses and facial expressions to a set of monkey meme images. Strike a pose — see your monkey twin.
+![download (6)](https://github.com/user-attachments/assets/e3de5cad-cfa1-4aaf-a4b5-24cda4fb0831)
 
 ---
 
